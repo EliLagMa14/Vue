@@ -16,7 +16,7 @@ const model = ref([
             
             { label: 'Formulario RFC', icon: 'pi pi-fw pi-file', to: '/uikit/formrfc' },
 
-            { label: 'Punto de Venta', icon: 'pi pi-fw pi-shopping-bag', to: '/uikit/table' },
+            { label: "Alumnos", icon: "pi pi-fw pi-user", to: "/uikit/table" },
             { label: 'Empleado', icon: 'pi pi-fw pi-user', to: '/uikit/empleado' },
             { label: 'Gráficas', icon: 'pi pi-fw pi-chart-bar', to: '/uikit/charts' },
             { label: 'QR', icon: 'pi pi-fw pi-qrcode', to: '/uikit/qr' },
